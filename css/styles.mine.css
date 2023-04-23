@@ -1,0 +1,27 @@
+.new {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.hobbies {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position:absolute;
+    color: rgb(54, 54, 43);
+    margin: 20px;
+}
+.favorite {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-position: inherit;
+    color-scheme:inherit;
+    margin: 20px;
+}
+.titles{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(207, 128, 42);
+    font-weight: 200;
+    position: relative;
+    margin: 20px;
+
+}
+.video{
+    padding: left 50px;
+}
